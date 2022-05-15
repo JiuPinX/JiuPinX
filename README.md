@@ -4,9 +4,9 @@
 
 <br>I'm am JiuPin！
 
-<br>I'm currently a waste. <code>qwq
+<br>I'm currently a waste. qwq
 
-<br>But I think I'll be fine in the near future! <code><del>Maybe<del/>
+<br>But I think I'll be fine in the near future! <del>Maybe<del/>
 
 <br>Welcome people of insight to help me.Thanks!
 
