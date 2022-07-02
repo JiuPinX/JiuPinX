@@ -4,7 +4,7 @@
 
 <br/><del>I’m a potato!<del/>
 
-<br>I'm am JiuPin！
+<br>I'm a JiuPin！
 
 <br>I'm currently a waste. qwq
 
