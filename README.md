@@ -2,16 +2,14 @@
 
 早上好啊！
 
-这里是九品的GitHub主页，现在还没东西，因为我根本不会写`qwq`。
+这里是九品的GitHub主页，现在还没东西，因为我根本不会写代码
 
 但是我仍在努力，会有一天做出自己的项目的！<br>
 <del>但愿吧<del/>
 
 我非常喜欢火狐！推荐你[使用火狐][1]
-
-推荐你使用[Mozilla][7]的其他好东西，比如说[Thunderbird][2]，[Pocket][3]，[MDN][4]。
-
-更可以通过[捐献语音][5]，[捐助钱财][6]来帮助Mozilla！
+  
+天无二日，我心中只有一个太阳！火狐就是火星！[为什么][2]
 
 ## The following English use translation software because I don't speak English
 
@@ -34,12 +32,10 @@ Also, I love Firefox so much! It is recommended that you [use Firefox][1]
 Let's shout together: Long live Mozilla!
 
 [1]: https://www.firefox.com/ "愣着干什么qwq？赶紧下载呀！"
-[2]: https://www.thunderbird.net/ "非常好用的邮箱软件，还可以订阅RSS"
-[3]: https://getpocket.com/my-list "跨端收藏夹了属于是"
-[4]: https://developer.mozilla.org/ "More MDN. Your MDN."
-[5]: https://commonvoice.mozilla.org/ "捐献你的语音！"
-[6]: https://donate.mozilla.org/ "帮助Mozilla"
-[7]: https://www.mozilla.org/about/manifesto/ "这可比Google从“不作恶”改成“做正确的事强多了”"
+
+[2]: https://mlmmlm-icu.github.io/t/topic/259.html "革！命！"
+  
+[3]: https://www.mozilla.org/zh-CN/firefox/features/independent/ "造！反！"
 
 ## 关于九品的私有仓库
 
