@@ -29,9 +29,9 @@ Welcome people of insight to help me.Thanks!
 
 Also, I love Firefox so much! It is recommended that you [use Firefox][1]
 
-Let's shout together: Long live Mozilla!
+Let's shout together: [Long live Mozilla!][3]
 
-[1]: https://www.firefox.com/ "愣着干什么qwq？赶紧下载呀！"
+[1]: https://www.firefox.com/ "下！载！"
 
 [2]: https://mlmmlm-icu.github.io/t/topic/259.html "革！命！"
   
