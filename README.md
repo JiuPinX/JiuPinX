@@ -41,7 +41,7 @@ Let's shout together: Long live Mozilla!
 [6]: https://donate.mozilla.org/ "帮助Mozilla"
 [7]: https://www.mozilla.org/about/manifesto/ "这可比Google从“不作恶”改成“做正确的事强多了”"
 
-## 关于我的私有仓库
+## 关于九品的私有仓库
 
 那是我用来存笔记的，没有钱买云服务`qwq`，但GitHub是免费的！
 
@@ -50,3 +50,7 @@ Let's shout together: Long live Mozilla!
 所以说那是个私有仓库，毕竟当你也不想查找Note软件的代码时看到别人写的笔记吧
 
 你也不想看到自己私密的笔记有很多人收藏吧
+
+## 为什么九品把私有仓库给撤了
+  
+伟大领袖指示我们：要斗私，批修
