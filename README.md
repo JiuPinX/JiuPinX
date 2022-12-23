@@ -37,16 +37,6 @@ Let's shout together: Long live Mozilla!
   
 [3]: https://www.mozilla.org/zh-CN/firefox/features/independent/ "造！反！"
 
-## 关于九品的私有仓库
-
-那是我用来存笔记的，没有钱买云服务`qwq`，但GitHub是免费的！
-
-于是我用Github来写和存储笔记，好用极了
-
-所以说那是个私有仓库，毕竟当你也不想查找Note软件的代码时看到别人写的笔记吧
-
-你也不想看到自己私密的笔记有很多人收藏吧
-
 ## 为什么九品把私有仓库给撤了
   
 伟大领袖指示我们：要斗私，批修
