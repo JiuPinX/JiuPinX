@@ -21,7 +21,7 @@ I’m a potato!
 
 I'm a JiuPin！
 
-I'm currently a waste `qwq`. 
+I'm currently a waste. 
 
 But I think I'll be fine in the near future! <del>Maybe<del/>
 
