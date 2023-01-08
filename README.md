@@ -6,7 +6,7 @@
 
 算了还是不知道写什么，晚安，记得早点睡
 
-### 九品装备栏
+### 装备栏！
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) 
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/) 
@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/Firefox-109.0beta-E02950?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.firefox.com) 
 [![](https://img.shields.io/badge/Windows-11-0290EE?style=flat-square&logo=microsoft&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 
-### 九品战斗力
+### 战斗力！
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiupinx&layout=compact&card_width=446&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
