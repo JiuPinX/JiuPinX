@@ -21,6 +21,6 @@
 
 ### 战斗力！
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiupinx&layout=compact&card_width=446&theme=transparent)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiupinx&layout=compact&card_width=446&theme=transparent)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiupinx&show_icons=true&theme=transparent)
