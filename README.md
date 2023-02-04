@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/) 
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/) 
 
-[![](https://img.shields.io/badge/Firefox-109.0beta-E02950?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.firefox.com) 
+[![](https://img.shields.io/badge/Firefox-110.0beta-E02950?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.firefox.com) 
 [![](https://img.shields.io/badge/Windows-11-0290EE?style=flat-square&logo=microsoft&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 
 ### 战斗力！
