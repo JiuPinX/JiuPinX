@@ -24,7 +24,3 @@
 [![](https://img.shields.io/badge/-Blog-66a28f?style=flat-square&logo=hexo&logoColor=ffffff)](https://jiupinx.github.io/)
 [![](https://img.shields.io/badge/Steam-232361?logo=Steam&style=flat-square)](https://steamcommunity.com/id/jiupinx/)
 [![](https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/JiuPinX/)
-
-#### Github Advancement
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiupinx&show_icons=true&custom_title=JiuPinX%20Lv%2E49&theme=transparent)
