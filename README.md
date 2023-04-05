@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/91058132?v=4" alt="JiuPinX" />
   <h3>JiuPinX</h3>
-  <p><a href="https://jiupinx.github.io/">Blog</a> · <a href="https://steamcommunity.com/id/jiupinx/">Steam</a> · <a href="https://github.com/JiuPinX/">Docs</a></p>
+  <p><a href="https://developer.mozilla.org/">Get Docs</a> · <a href="mailto:jiupinx@outlook.com">What's new?</a> · <a href="https://jiupinx.github.io/">Substats</a></p>
   <p><em>呐，九品♪ 那就工作吧～ 更多更多的编码 诶飒挥飒</em></p>
 
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
