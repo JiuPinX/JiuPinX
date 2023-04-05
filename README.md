@@ -1,10 +1,8 @@
-呐，九品♪ 那就工作吧
-
-更多更多的编码 诶飒挥飒
-
-直到最后的 绝顶感 请提交吧
-
-#### Platform&Tools
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/91058132?v=4" alt="JiuPinX" />
+  <h3>JiuPinX</h3>
+  <p><a href="https://jiupinx.github.io/">Blog</a> · <a href="https://steamcommunity.com/id/jiupinx/">Steam</a> · <a href="https://github.com/JiuPinX/">Docs</a></p>
+  <p><em>呐，九品♪ 那就工作吧～ 更多更多的编码 诶飒挥飒</em></p>
 
 [![](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-Iced-000000?style=flat-square&logo=iced&logoColor=white)](https://iced.rs/)
@@ -20,7 +18,4 @@
 
 [![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-Webassembly-654ff0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
-
-[![](https://img.shields.io/badge/-Blog-66a28f?style=flat-square&logo=hexo&logoColor=ffffff)](https://jiupinx.github.io/)
-[![](https://img.shields.io/badge/Steam-232361?logo=Steam&style=flat-square)](https://steamcommunity.com/id/jiupinx/)
-[![](https://img.shields.io/badge/-GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/JiuPinX/)
+</div>
