@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/-Iced-000000?style=flat-square&logo=iced&logoColor=white)](https://iced.rs/)
 [![](https://img.shields.io/badge/-mdBook-000000?style=flat-square&logo=mdbook&logoColor=white)](https://rust-lang.github.io/mdBook/)
 
-[![](https://img.shields.io/badge/Firefox-113.0beta-E02950?style=flat-square&logo=firefox&logoColor=ffffff)](https://www.firefox.com)
+[![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=E02950&label=Firefox&query=FIREFOX_NIGHTLY&url=https%3A%2F%2Fproduct-details.mozilla.org%2F1.0%2Ffirefox_versions.json&logo=firefox&logoColor=ffffff)](https://www.firefox.com)
 [![](https://img.shields.io/badge/OS-Manjaro-37c860?style=flat-square&logo=manjaro&logoColor=ffffff)](https://manjaro.org/)
 [![](https://img.shields.io/badge/Windows-11-0290EE?style=flat-square&logo=windows11&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 
