@@ -4,7 +4,7 @@
   <p><a href="https://developer.mozilla.org/">Get Docs</a> · <a href="mailto:jiupinx@outlook.com">What's new?</a> · <a href="https://jiupinx.github.io/">Substats</a></p>
   <p><em>呐，九品♪ 那就工作吧～ 更多更多的编码 诶飒挥飒</em></p>
 
-[![](https://img.shields.io/badge/-C/C++%20Programming%20Language-000000?style=flat-square&logo=cplusplus&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-C/C++%20Programming%20Language-000000?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![](https://img.shields.io/badge/-Rust%20Programming%20Language-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 [![](https://img.shields.io/badge/dynamic/json?style=flat-square&color=E02950&label=Firefox&query=FIREFOX_NIGHTLY&url=https%3A%2F%2Fproduct-details.mozilla.org%2F1.0%2Ffirefox_versions.json&logo=firefox&logoColor=ffffff)](https://www.firefox.com)
