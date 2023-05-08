@@ -18,3 +18,5 @@
 [![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-Webassembly-654ff0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
 </div>
+
+<p>上述技术均未掌握，权当待办！</p>
