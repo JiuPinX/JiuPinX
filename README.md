@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 [![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-[![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-JavaScript-3178c6?style=flat-square&logo=javascript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-Webassembly-654ff0?style=flat-square&logo=webassembly&logoColor=white)](https://webassembly.org/)
 
 <p>上述技术均未掌握，权当待办！</p>
