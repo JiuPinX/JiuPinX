@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/91058132?v=4" alt="Kyux" />
+  <img src="https://raw.githubusercontent.com/Kyux-Channel/JiuPinX/main/kyu.png" alt="Kyux" />
   <h3>九</h3>
   <p><a href="https://developer.mozilla.org/">Codeberg</a> · <a href="mailto:jiupinx@outlook.com">Kyux's blog</a> · <a href="https://jiupinx.github.io/">Mailto</a></p>
   <p><em>呐，九品♪ 那就工作吧～ 更多更多的编码 诶飒挥飒</em></p>
