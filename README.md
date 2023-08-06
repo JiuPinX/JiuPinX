@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="" alt="JiuPinX" />
-  <h3>JiuPinX</h3>
-  <p><a href="https://developer.mozilla.org/">Get Docs</a> · <a href="mailto:jiupinx@outlook.com">What's new?</a> · <a href="https://jiupinx.github.io/">Substats</a></p>
+  <img src="https://avatars.githubusercontent.com/u/91058132?v=4" alt="Kyux" />
+  <h3>九</h3>
+  <p><a href="https://developer.mozilla.org/">Codeberg</a> · <a href="mailto:jiupinx@outlook.com">Kyux's blog</a> · <a href="https://jiupinx.github.io/">Mailto</a></p>
   <p><em>呐，九品♪ 那就工作吧～ 更多更多的编码 诶飒挥飒</em></p>
 
 [![](https://img.shields.io/badge/-C/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
